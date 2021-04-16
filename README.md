@@ -15,3 +15,8 @@ To Start:
 9. View the App in Mobile Mode @ 50% Zoom for full ( Ctrl + Shift + M in Dev mode ) 
 
 ![](public/img/LocalHost.png)
+
+
+ Pretty Dang Close to the structure they wanted me to duplicate. Random pictures, titles and authors etc all came from api endpoint. 
+ 
+ ![](public/img/hardingList.jpg)

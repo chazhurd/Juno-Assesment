@@ -17,6 +17,6 @@ To Start:
 ![](public/img/LocalHost.png)
 
 
- Pretty Dang Close to the structure they wanted me to duplicate. Random pictures, titles and authors etc all came from api endpoint. 
+ Pretty close to the model they wanted. I spent a few hours on this and could get an exact copy if wanted. Random pictures, titles and authors etc all came from api endpoint. 
  
  ![](public/img/hardingList.jpg)
